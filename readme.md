@@ -21,7 +21,7 @@ pip install acvl_utils==0.2
 
 ### 数据格式转换
 
-/dataset 下创建nnUNet_preprocessed、nnUNet_raw/nnUNet_raw_data、nnUNet_results文件夹
+在nnUNet下创建/dataset, 并继续在dataset下创建 nnUNet_preprocessed、nnUNet_raw/nnUNet_raw_data、nnUNet_results文件夹
 
 数据集BraTS2021_Training_Data.tar解压缩到nnUNet_raw/nnUNet_raw_data/Task137_BraTS21
 
